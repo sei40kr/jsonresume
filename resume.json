@@ -1,0 +1,157 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Seong Yong-ju",
+    "label": "Software Engineer/Systems Architect",
+    "email": "sei40kr@gmail.com",
+    "url": "https://yong-ju.me",
+    "location": {
+      "countryCode": "JP",
+      "region": "Fukuoka",
+      "city": "Miyako-gun"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "sei40kr",
+        "url": "https://twitter.com/sei40kr"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "sei40kr",
+        "url": "https://www.linkedin.com/in/sei40kr/"
+      },
+      {
+        "network": "GitHub",
+        "username": "sei40kr",
+        "url": "https://github.com/sei40kr"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pega Japan K.K.",
+      "position": "Systems Architect",
+      "startDate": "2018-07"
+    },
+    {
+      "name": "TeamSpirit Inc.",
+      "position": "Frontend Engineer",
+      "startDate": "2017-09",
+      "endDate": "2018-06"
+    },
+    {
+      "name": "Works Applications Co., Ltd.",
+      "position": "Frontend & Backend & Database Engineer",
+      "startDate": "2016-04",
+      "endDate": "2017-04"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Japanese",
+      "fluency": "Primary fluency"
+    },
+    {
+      "language": "English",
+      "fluency": "Limited working proficiency"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Software Engineering",
+      "level": "Advanced"
+    },
+    {
+      "name": "Web Development",
+      "level": "Advanced"
+    },
+    {
+      "name": "Java",
+      "level": "Advanced"
+    },
+    {
+      "name": "Database",
+      "level": "Intermediate"
+    },
+    {
+      "name": "PHP",
+      "level": "Beginner"
+    },
+    {
+      "name": "Ruby",
+      "level": "Beginner"
+    },
+    {
+      "name": "C",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Rust",
+      "level": "Beginner"
+    },
+    {
+      "name": "Haskell",
+      "level": "Beginner"
+    },
+    {
+      "name": "Shell Script",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Pega Platform",
+      "level": "Beginner"
+    },
+    {
+      "name": "Emacs Lisp",
+      "level": "Intermediate"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Subsystems of a Huge Financial System",
+      "description": "Subsystems of a huge financial system. Built on Pega Platform.",
+      "highlights": ["Develop some features"],
+      "startDate": "2018-11",
+      "roles": ["Systems Architect"]
+    },
+    {
+      "name": "Attendance & Time Tracking System",
+      "description": "An enterprise application to provide an attendance management & time tracking. Built on Sales Cloud.",
+      "highlights": [
+        "Design specifications & develop some features",
+        "Setup static type checking for the project"
+      ],
+      "startDate": "2017-09",
+      "endDate": "2018-06",
+      "roles": ["Frontend Engineer"]
+    },
+    {
+      "name": "Frontend Developer Tools",
+      "description": "Frontend developer tools to improve product developers' productivities.",
+      "startDate": "2017-02",
+      "endDate": "2017-04",
+      "roles": ["Frontend Engineer"]
+    },
+    {
+      "name": "Domestic Datasync Framework",
+      "description": "A domestic framework to sync data between RDB and Cassandra.",
+      "highlights": [
+        "Develop a distributed batch to sync data in bulk",
+        "Create a testing tool to enable the framework users to test their modules easily",
+        "Develop an useful feature to reproduce data-related issues in development environment"
+      ],
+      "startDate": "2016-10",
+      "endDate": "2017-01",
+      "roles": ["Frontend & Backend & Database Engineer"]
+    },
+    {
+      "name": "Employee Onboarding System Prototyping",
+      "description": "A prototype of an Employee Onboarding subsystem of an ERP product.",
+      "highlights": ["Design & develop some mockup screens"],
+      "startDate": "2016-08",
+      "endDate": "2016-09",
+      "roles": ["Frontend Engineer"]
+    }
+  ]
+}
