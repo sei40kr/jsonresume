@@ -113,7 +113,8 @@
       "description": "Subsystems of a huge financial system. Built on Pega Platform.",
       "highlights": ["Develop some features"],
       "startDate": "2018-11",
-      "roles": ["Systems Architect"]
+      "roles": ["Systems Architect"],
+      "entity": "Pega Japan K.K."
     },
     {
       "name": "Attendance & Time Tracking System",
@@ -124,7 +125,8 @@
       ],
       "startDate": "2017-09",
       "endDate": "2018-06",
-      "roles": ["Frontend Engineer"]
+      "roles": ["Frontend Engineer"],
+      "entity": "TeamSpirit Inc."
     },
     {
       "name": "Frontend Developer Tools",
@@ -132,7 +134,8 @@
       "highlights": [],
       "startDate": "2017-02",
       "endDate": "2017-04",
-      "roles": ["Frontend Engineer"]
+      "roles": ["Frontend Engineer"],
+      "entity": "Works Applications Co., Ltd."
     },
     {
       "name": "Domestic Datasync Framework",
@@ -144,7 +147,8 @@
       ],
       "startDate": "2016-10",
       "endDate": "2017-01",
-      "roles": ["Frontend & Backend & Database Engineer"]
+      "roles": ["Frontend & Backend & Database Engineer"],
+      "entity": "Works Applications Co., Ltd."
     },
     {
       "name": "Employee Onboarding System Prototyping",
@@ -152,7 +156,8 @@
       "highlights": ["Design & develop some mockup screens"],
       "startDate": "2016-08",
       "endDate": "2016-09",
-      "roles": ["Frontend Engineer"]
+      "roles": ["Frontend Engineer"],
+      "entity": "Works Applications Co., Ltd."
     }
   ]
 }
