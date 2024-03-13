@@ -2,6 +2,9 @@
   "name": "jsonresume",
   "module": "index.ts",
   "type": "module",
+  "scripts": {
+    "validate": "resume validate"
+  },
   "devDependencies": {
     "resume-cli": "^3.0.8"
   }
