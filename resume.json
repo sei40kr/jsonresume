@@ -57,6 +57,96 @@
       "fluency": "Limited working proficiency"
     }
   ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "2022-08-30",
+      "url": "https://www.credly.com/badges/e0698708-ca85-49fc-96bc-671deee478c9",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Developer - Associate",
+      "date": "2022-09-05",
+      "url": "https://www.credly.com/badges/6e274542-6da2-4bd6-a1d2-0b56b875fa40",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified SysOps Administrator - Associate",
+      "date": "2022-09-08",
+      "url": "https://www.credly.com/badges/78d21f4e-2751-4c50-bc15-5ee61200cf28",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Professional",
+      "date": "2023-07-15",
+      "url": "https://www.credly.com/badges/424b60b1-ed2d-43cc-9bd7-78491ba1b23e",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Security - Specialty",
+      "date": "2023-07-31",
+      "url": "https://www.credly.com/badges/f37658d8-379e-4dec-ba21-9816d4e33405",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Database - Specialty",
+      "date": "2023-08-14",
+      "url": "https://www.credly.com/badges/2cc95589-69dd-41a4-830b-6847b75fb4ac",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Advanced Networking - Specialty",
+      "date": "2023-09-14",
+      "url": "https://www.credly.com/badges/cb753aea-8a6f-44ba-99f2-8716d65bbcf2",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "AWS Certified Data Analytics - Specialty",
+      "date": "2023-10-02",
+      "url": "https://www.credly.com/badges/1daedd6b-bf65-40eb-82c2-5692397945b0",
+      "issuer": "Amazon Web Services (AWS)"
+    },
+    {
+      "name": "Applied Information Technology Engineer",
+      "date": "2019-12-20",
+      "issuer": "Information-Technology Promotion Agency, Japan (IPA)"
+    },
+    {
+      "name": "Registered Information Security Specialist",
+      "date": "2021-10-01",
+      "url": "https://riss.ipa.go.jp/r?r=022567",
+      "issuer": "Information-Technology Promotion Agency, Japan (IPA)"
+    },
+    {
+      "name": "Deep Learning for GENERAL",
+      "date": "2021-08-02",
+      "issuer": "Japan Deep Learning Association (JDLA)"
+    },
+    {
+      "name": "LPIC-1",
+      "date": "2022-11-14",
+      "url": "https://cs.lpi.org/caf/Xamman/certification/verify/LPI000543436/dzdbzfx26a",
+      "issuer": "Linux Professional Institute (LPI)"
+    },
+    {
+      "name": "OSS-DB Silver",
+      "date": "2022-11-28",
+      "url": "https://ma.educo-j.or.jp/d/EID900034729/n94t93twg5",
+      "issuer": "Linux Professional Institute (LPI)"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2022-12-08",
+      "url": "https://www.credly.com/badges/3ddc7308-360d-4f0b-b126-5720632a5d50",
+      "issuer": "Microsoft"
+    },
+    {
+      "name": "Microsoft Certified: Azure Administrator Associate",
+      "date": "2024-02-20",
+      "url": "https://learn.microsoft.com/ja-jp/users/77450645/credentials/af218da511ec4fa1",
+      "issuer": "Microsoft"
+    }
+  ],
   "skills": [
     {
       "name": "Software Engineering",
