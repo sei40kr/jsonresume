@@ -12,11 +12,6 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "sei40kr",
-        "url": "https://twitter.com/sei40kr"
-      },
-      {
         "network": "LinkedIn",
         "username": "sei40kr",
         "url": "https://www.linkedin.com/in/sei40kr/"
