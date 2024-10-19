@@ -82,6 +82,11 @@ data "aws_iam_policy_document" "ci" {
       "${aws_s3_bucket.resume.arn}/*"
     ]
   }
+
+  statement {
+    actions   = ["cloudfront:CreateInvalidation"]
+    resources = [aws_cloudfront_distribution.resume.arn]
+  }
 }
 
 data "aws_route53_zone" "zone" {
