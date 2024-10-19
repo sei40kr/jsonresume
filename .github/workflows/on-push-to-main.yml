@@ -26,4 +26,6 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
       - name: Upload to S3
-        run: aws s3 mv resume.json s3://jsonresume.yong-ju.me/resume.json
+        run: |
+          aws s3 mv resume.json s3://jsonresume.yong-ju.me/resume.json
+          aws cloudfront create-invalidation --distribution-id E2TLBQ0A414OCH --paths '/*'
