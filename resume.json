@@ -209,6 +209,33 @@
   ],
   "projects": [
     {
+      "name": "Development of Design System for Large-scale E-commerce Application",
+      "description": "Development of a design system for a large-scale e-commerce application.",
+      "highlights": [
+        "Reviewed component designs",
+        "Designed components according to Atomic Design",
+        "Implemented component CSS",
+        "Implemented mock pages for CSS component verification",
+        "Implemented React components",
+        "Reviewed and fixed HTML semantics of CSS components",
+        "Documented design policies for component margins considering margin collapsing specifications",
+        "Identified and considered implementation policies for Google Analytics use cases",
+        "Released CSS components",
+        "Implemented automation scripts for release tasks",
+        "Migrated JavaScript build environment (gulp → Webpack)",
+        "Migrated Webpack (v3 → v5)",
+        "Directed CSS component development (2019/08 to end)",
+        "Proposed lowering the priority of WAI-ARIA support for CSS components",
+        "Proposed visual regression testing using mock pages to handle large-scale refactoring and unexpected side effects of margin collapsing",
+        "Considered methods to reduce the bundle size of the design system",
+        "Interpreted communication between domestic and overseas members"
+      ],
+      "startDate": "2019-05",
+      "endDate": "2020-03",
+      "roles": ["Frontend Engineer", "Director"],
+      "entity": "Freelance"
+    },
+    {
       "name": "Replacement of Ticket Management System for Mega Bank",
       "description": "Replacement of the ticket management system for a mega bank.",
       "highlights": [
