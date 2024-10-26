@@ -206,7 +206,7 @@
     {
       "name": "Subsystems of a Huge Financial System",
       "description": "Subsystems of a huge financial system. Built on Pega Platform.",
-      "highlights": ["Develop some features"],
+      "highlights": ["Developed several features"],
       "startDate": "2018-11",
       "roles": ["Systems Architect"],
       "entity": "Pega Japan K.K."
@@ -215,8 +215,8 @@
       "name": "Attendance & Time Tracking System",
       "description": "An enterprise application to provide an attendance management & time tracking. Built on Sales Cloud.",
       "highlights": [
-        "Design specifications & develop some features",
-        "Setup static type checking for the project"
+        "Designed specifications and developed several features",
+        "Set up static type checking for the project"
       ],
       "startDate": "2017-09",
       "endDate": "2018-06",
@@ -236,9 +236,9 @@
       "name": "Domestic Datasync Framework",
       "description": "A domestic framework to sync data between RDB and Cassandra.",
       "highlights": [
-        "Develop a distributed batch to sync data in bulk",
-        "Create a testing tool to enable the framework users to test their modules easily",
-        "Develop an useful feature to reproduce data-related issues in development environment"
+        "Developed a distributed batch process to synchronize data in bulk",
+        "Created a testing tool to enable framework users to test their modules easily",
+        "Developed a useful feature to reproduce data-related issues in the development environment"
       ],
       "startDate": "2016-10",
       "endDate": "2017-01",
@@ -248,7 +248,7 @@
     {
       "name": "Employee Onboarding System Prototyping",
       "description": "A prototype of an Employee Onboarding subsystem of an ERP product.",
-      "highlights": ["Design & develop some mockup screens"],
+      "highlights": ["Designed and developed several mockup screens"],
       "startDate": "2016-08",
       "endDate": "2016-09",
       "roles": ["Frontend Engineer"],
