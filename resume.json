@@ -35,6 +35,11 @@
   },
   "work": [
     {
+      "name": "Freelance",
+      "position": "Software Engineer",
+      "startDate": "2019-02"
+    },
+    {
       "name": "Pega Japan K.K.",
       "position": "Systems Architect",
       "startDate": "2018-07"
@@ -204,10 +209,51 @@
   ],
   "projects": [
     {
+      "name": "Replacement of Ticket Management System for Mega Bank",
+      "description": "Replacement of the ticket management system for a mega bank.",
+      "highlights": [
+        "Investigated the specifications of the old system",
+        "Redesigned logical and physical models of the old system",
+        "Considered the differences in specifications between HQ users (auditors) and branch users",
+        "Reviewed physical design and pointed out inconsistencies due to optimistic control and transaction isolation levels, and designs that violate \"one fact in one place\"",
+        "Wrote Docker Compose to launch middleware for both old and new systems",
+        "Designed domain-driven backend module structure with Maven",
+        "Identified all domain exceptions",
+        "Developed authentication features (detailed design to implementation)",
+        "Designed and implemented application logs",
+        "Designed and implemented rotation of application and audit logs",
+        "Implemented all API Controllers",
+        "Implemented customer list and registration screen",
+        "Implemented ticket search screen",
+        "Implemented ticket detail screen",
+        "Implemented print report screen",
+        "Modified to reference Thymeleaf templates outside of Java artifacts to reduce repackaging and swapping time",
+        "Designed frontend architecture",
+        "Pointed out the issue of not being able to physically delete child records in parent-child relationships and proposed changing to logical deletion",
+        "Pointed out and fixed the issue of fixed authentication session keys in the old system"
+      ],
+      "keywords": [
+        "Java",
+        "Bootstrap",
+        "Spring Boot",
+        "Spring MVC",
+        "Thymeleaf",
+        "Git",
+        "Maven",
+        "MySQL",
+        "MyBatis"
+      ],
+      "startDate": "2019-02",
+      "endDate": "2019-04",
+      "roles": ["Developer"],
+      "entity": "Freelance"
+    },
+    {
       "name": "Subsystems of a Huge Financial System",
       "description": "Subsystems of a huge financial system. Built on Pega Platform.",
       "highlights": ["Developed several features"],
       "startDate": "2018-11",
+      "endDate": "2019-01",
       "roles": ["Systems Architect"],
       "entity": "Pega Japan K.K."
     },
